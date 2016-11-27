@@ -1,0 +1,21 @@
+﻿  User.cpp
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\user.cpp(180): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\user.cpp(222): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mail.cpp
+  Folder.cpp
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\user.h(102): error C2065: 'Folder': 선언되지 않은 식별자입니다.
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\user.h(102): error C2923: 'DoublySortedLinkedList': 'Folder'은(는) 'T' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+  Application.cpp
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\application.cpp(138): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\application.cpp(775): warning C4101: 'ReadMark' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\doublyiteratorh.h(76): warning C4715: 'DoublyIterator<User>::Next': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\doublyiteratorh.h(76): warning C4715: 'DoublyIterator<Contact>::Next': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\doublyiteratorh.h(76): warning C4715: 'DoublyIterator<Mail>::Next': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\user.cpp(256): warning C4172: 지역 변수 또는 임시: tempList의 주소를 반환하고 있습니다.
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\user.cpp(272): warning C4715: 'User::getContactFromAd_ListByAddress': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\doublyiteratorh.h(76): warning C4715: 'DoublyIterator<Contact>::Next': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\yhnu1\desktop\ds_project - 복사본 (2)\ds_과제3_2013104094_윤승우\doublyiteratorh.h(76): warning C4715: 'DoublyIterator<Mail>::Next': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  main.cpp
+  코드를 생성하고 있습니다...
